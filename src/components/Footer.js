@@ -29,7 +29,7 @@ const Footer = () => {
                                 <FaMapMarkerAlt className="w-6 h-6 text-blue-600" />
                                 <div>
                                     <p className="font-semibold">Address</p>
-                                    <p className="text-gray-300">Hospital Road, Sagamu, Ogun State, Nigeria</p>
+                                    <p className="text-gray-300">OOUTH Complex, Sagamu, Ogun State</p>
                                 </div>
                             </div>
                         </div>
