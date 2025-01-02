@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
 import QuickLinks from './QuickLinks'; // Correct import path
 
 const Footer = () => {
@@ -30,6 +30,13 @@ const Footer = () => {
                                 <div>
                                     <p className="font-semibold">Address</p>
                                     <p className="text-gray-300">OOUTH Complex, Sagamu, Ogun State</p>
+                                </div>
+                            </div>
+                            <div className="flex items-center gap-4">
+                                <FaClock className="w-6 h-6 text-blue-600" />
+                                <div>
+                                    <p className="font-semibold">Operating Hours</p>
+                                    <p className="text-gray-300">8:00 AM - 4:00PM</p>
                                 </div>
                             </div>
                         </div>
