@@ -6,7 +6,7 @@ const About = () => {
             <div className="container mx-auto">
                 <h1 className="text-4xl font-bold text-blue-900 mb-6">About Us</h1>
                 <p className="text-lg text-blue-700">
-                    Our cooperative society is dedicated to improving the lives of our members through mutual aid, shared resources, and community development. We believe in the power of collective effort to achieve common goals.
+                    OOUTH cooperative society is dedicated to improving the lives of our members through mutual aid, shared resources, and community development. We believe in the power of collective effort to achieve common goals.
                 </p>
             </div>
         </div>
