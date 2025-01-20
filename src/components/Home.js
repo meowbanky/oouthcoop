@@ -349,7 +349,7 @@ const Home = () => {
                 <div className="bg-white p-8 rounded-lg shadow-md">
                     <h3 className="text-xl font-semibold mb-4">Download Our Mobile App</h3>
                     <div className="space-y-4">
-                        <a href="#" className="flex items-center gap-4 text-blue-600 hover:text-blue-700">
+                        <a href="https://www.emmaggi.com/coop_admin/download.html" className="flex items-center gap-4 text-blue-600 hover:text-blue-700">
                             <FaArrowRight className="w-5 h-5"/>
                             <span>Download for Android</span>
                         </a>
